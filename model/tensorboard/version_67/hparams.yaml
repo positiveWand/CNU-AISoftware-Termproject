@@ -1,0 +1,12 @@
+adamw_betas: !!python/tuple
+- 0.9
+- 0.97
+drop_rate: 0.1
+final_tokens: 17850000
+intermediate_dim: 128
+learning_rate: 5.0e-05
+ln_eps: 1.0e-05
+shape_num: 5
+threshold: 0.5
+warmup_tokens: 357000
+weight_decay: 0.01

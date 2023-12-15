@@ -1,0 +1,7 @@
+adamw_betas: !!python/tuple
+- 0.9
+- 0.98
+final_tokens: 47250000
+learning_rate: 3.0e-05
+warmup_tokens: 945000
+weight_decay: 0.01

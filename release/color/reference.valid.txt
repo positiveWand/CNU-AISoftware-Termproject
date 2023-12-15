@@ -1,0 +1,1500 @@
+7000	black , red , yellow
+7001	black , blue , green
+7002	black , red , yellow
+7003	green , red
+7004	blue , red
+7005	black , green
+7006	blue , red , yellow
+7007	black , red
+7008	green , yellow
+7009	blue , red
+7010	black , green
+7011	blue
+7012	green , red
+7013	black , red
+7014	black , green
+7015	blue , red
+7016	black , red
+7017	black , yellow
+7018	blue , green , yellow
+7019	black , red , yellow
+7020	blue , green
+7021	black , green , red
+7022	black , red , yellow
+7023	green , red
+7024	red , yellow
+7025	black , yellow
+7026	black , green , yellow
+7027	black , blue , yellow
+7028	black , blue
+7029	black , blue
+7030	black , green , yellow
+7031	green , yellow
+7032	blue , red , yellow
+7033	black , blue , yellow
+7034	blue
+7035	blue
+7036	blue , yellow
+7037	black , green , yellow
+7038	red , yellow
+7039	blue , yellow
+7040	blue , red
+7041	red , yellow
+7042	blue , yellow
+7043	blue , green , red
+7044	black , blue , green
+7045	green , yellow
+7046	black , red , yellow
+7047	black , yellow
+7048	black , blue , green
+7049	black , blue , red
+7050	black , green , yellow
+7051	green , red
+7052	black , blue , yellow
+7053	red , yellow
+7054	blue , red
+7055	blue , red
+7056	blue , yellow
+7057	blue , green
+7058	blue , green
+7059	black , red
+7060	black , green
+7061	green , red
+7062	blue , yellow
+7063	blue , red
+7064	blue , red
+7065	blue , red
+7066	red , yellow
+7067	blue , red , yellow
+7068	yellow
+7069	black , green , red
+7070	green , red
+7071	black
+7072	green , red , yellow
+7073	blue , yellow
+7074	blue , red
+7075	blue , yellow
+7076	black , green , yellow
+7077	black , red , yellow
+7078	black , blue , red
+7079	green
+7080	black , blue , green
+7081	black , green
+7082	black , green , yellow
+7083	black , red
+7084	green
+7085	green , red , yellow
+7086	blue , yellow
+7087	red , yellow
+7088	black , green
+7089	black , blue
+7090	black , blue , green
+7091	red , yellow
+7092	blue , yellow
+7093	blue , green , yellow
+7094	green , yellow
+7095	black , red , yellow
+7096	black , red
+7097	black , yellow
+7098	blue , yellow
+7099	black , green , red
+7100	blue , green
+7101	black , red
+7102	blue , yellow
+7103	black , blue , green
+7104	green , yellow
+7105	black , blue
+7106	red , yellow
+7107	blue , red
+7108	blue , yellow
+7109	black , red
+7110	black , yellow
+7111	green , yellow
+7112	red , yellow
+7113	red , yellow
+7114	black , green
+7115	green , red
+7116	black , green
+7117	blue , green , yellow
+7118	blue , red , yellow
+7119	blue , red , yellow
+7120	black , blue
+7121	black , red
+7122	black , yellow
+7123	green , red
+7124	blue , green , yellow
+7125	blue , green , red
+7126	green , red , yellow
+7127	green , yellow
+7128	black , blue , green
+7129	blue , red , yellow
+7130	blue , red
+7131	black , green
+7132	blue , green , red
+7133	black , yellow
+7134	black , yellow
+7135	black , green , yellow
+7136	green
+7137	blue , red
+7138	blue , yellow
+7139	blue , yellow
+7140	black , red , yellow
+7141	black , blue
+7142	yellow
+7143	yellow
+7144	green , red
+7145	black , red
+7146	black , yellow
+7147	black , blue , yellow
+7148	black , red
+7149	black , blue , red
+7150	black , yellow
+7151	black , green , yellow
+7152	green , yellow
+7153	black , blue , red
+7154	black , yellow
+7155	black , blue
+7156	blue , red
+7157	green , yellow
+7158	black , blue , red
+7159	black , blue , yellow
+7160	green
+7161	black , blue , yellow
+7162	black , yellow
+7163	black , red , yellow
+7164	blue , green , yellow
+7165	blue , red , yellow
+7166	blue , green
+7167	black , blue
+7168	black , blue , red
+7169	red , yellow
+7170	blue , yellow
+7171	black , blue
+7172	black , red , yellow
+7173	blue , yellow
+7174	yellow
+7175	green , red , yellow
+7176	black , blue
+7177	black , green , yellow
+7178	green , yellow
+7179	blue , green
+7180	black , blue
+7181	blue , green
+7182	black , blue
+7183	black , blue , red
+7184	red , yellow
+7185	yellow
+7186	black , red
+7187	black , green , yellow
+7188	black
+7189	black , blue
+7190	yellow
+7191	black , blue , red
+7192	red
+7193	blue , green
+7194	red , yellow
+7195	black , blue
+7196	green , red
+7197	black , green
+7198	green , red , yellow
+7199	red
+7200	blue , yellow
+7201	blue , green , yellow
+7202	black , green , red
+7203	blue
+7204	blue , yellow
+7205	blue , red , yellow
+7206	blue , yellow
+7207	red
+7208	green , yellow
+7209	black , blue , yellow
+7210	black , blue , green
+7211	blue , red , yellow
+7212	green
+7213	blue , green , red
+7214	black , blue , yellow
+7215	black , yellow
+7216	green , red
+7217	green , yellow
+7218	red , yellow
+7219	black , blue
+7220	green , red
+7221	blue , red
+7222	green
+7223	blue , green
+7224	black , green
+7225	green , red
+7226	black , blue
+7227	black , yellow
+7228	blue , green , red
+7229	black , blue
+7230	green , yellow
+7231	black , green
+7232	black , blue
+7233	black
+7234	black , yellow
+7235	black , blue
+7236	black , blue , yellow
+7237	black , blue
+7238	blue , green
+7239	black , blue , red
+7240	green , red
+7241	blue , green
+7242	black , red
+7243	blue , green
+7244	black , green , yellow
+7245	red , yellow
+7246	black , red , yellow
+7247	blue , red
+7248	black , red
+7249	black , red
+7250	black , red
+7251	blue , yellow
+7252	blue , green , yellow
+7253	black , green
+7254	green , red
+7255	blue , yellow
+7256	black
+7257	black , blue
+7258	blue , red
+7259	red , yellow
+7260	yellow
+7261	green , red , yellow
+7262	blue , green
+7263	blue , green
+7264	black , green , red
+7265	black , blue
+7266	black , green
+7267	black , yellow
+7268	green , yellow
+7269	green , yellow
+7270	black , yellow
+7271	black , green
+7272	black , blue
+7273	blue , red
+7274	black , green
+7275	black , red
+7276	blue , yellow
+7277	blue , green , yellow
+7278	black , blue , red
+7279	red
+7280	blue , red , yellow
+7281	green
+7282	black , red , yellow
+7283	black , green , red
+7284	green
+7285	blue , green , red
+7286	red
+7287	blue , red , yellow
+7288	green , red , yellow
+7289	blue , green
+7290	black , blue , green
+7291	blue , red
+7292	green , red
+7293	black , green , red
+7294	black , red
+7295	green
+7296	blue , red
+7297	black , yellow
+7298	green , red
+7299	black , blue , green
+7300	green , red , yellow
+7301	blue , red
+7302	black , yellow
+7303	green , red
+7304	black , blue
+7305	black , green
+7306	blue , green
+7307	blue , green
+7308	black , blue
+7309	blue , green
+7310	black , green
+7311	black , blue
+7312	black , blue
+7313	black , blue , red
+7314	black , blue
+7315	black , red
+7316	blue , red
+7317	black , blue , green
+7318	black , green
+7319	red , yellow
+7320	green , red
+7321	green , red
+7322	black , blue , green
+7323	black , blue
+7324	black , green
+7325	black , blue , yellow
+7326	black , blue , red
+7327	blue , red
+7328	black , green , yellow
+7329	red , yellow
+7330	black , red
+7331	green , red , yellow
+7332	black
+7333	green
+7334	red
+7335	blue , yellow
+7336	red , yellow
+7337	black , green , yellow
+7338	black , green
+7339	black , yellow
+7340	blue , green
+7341	green , red
+7342	blue , red
+7343	black , green
+7344	black , yellow
+7345	green , yellow
+7346	black , blue , green
+7347	green , yellow
+7348	black , green , red
+7349	black , blue , yellow
+7350	blue , green
+7351	green , yellow
+7352	black , green
+7353	green , red , yellow
+7354	black , red , yellow
+7355	blue , green
+7356	black , red
+7357	blue , red
+7358	green , yellow
+7359	blue , green , red
+7360	black , green
+7361	black , green , red
+7362	blue , red , yellow
+7363	black , red
+7364	black , blue , red
+7365	blue , green , yellow
+7366	blue , yellow
+7367	green , yellow
+7368	black , blue , yellow
+7369	black , yellow
+7370	blue
+7371	black , blue , green
+7372	green , red
+7373	black , green
+7374	black
+7375	blue , green
+7376	black , yellow
+7377	blue , green , red
+7378	black , red
+7379	black , green
+7380	blue , yellow
+7381	black , blue , yellow
+7382	black , blue , yellow
+7383	blue , green , red
+7384	black , red
+7385	green
+7386	black , red
+7387	black , blue
+7388	black , yellow
+7389	black , yellow
+7390	black , blue , red
+7391	blue , yellow
+7392	green , yellow
+7393	blue , green , yellow
+7394	black , yellow
+7395	green , yellow
+7396	red , yellow
+7397	black , blue , green
+7398	black , red
+7399	red
+7400	black , yellow
+7401	green , yellow
+7402	yellow
+7403	black , blue
+7404	green , yellow
+7405	black , blue
+7406	blue , green
+7407	black , green
+7408	blue , red
+7409	blue , yellow
+7410	blue , yellow
+7411	black , red , yellow
+7412	blue , yellow
+7413	blue , red
+7414	black , blue , red
+7415	red , yellow
+7416	black , blue
+7417	black , green , yellow
+7418	yellow
+7419	black , green
+7420	red , yellow
+7421	black , blue
+7422	green , red
+7423	black , blue
+7424	blue , yellow
+7425	blue , red
+7426	black , red
+7427	black , yellow
+7428	green
+7429	green , yellow
+7430	blue , green
+7431	black , yellow
+7432	blue , green
+7433	black , green , red
+7434	blue , yellow
+7435	black , red
+7436	black , blue , yellow
+7437	black , blue
+7438	black , green
+7439	green , red
+7440	blue , green , yellow
+7441	green , red , yellow
+7442	red , yellow
+7443	blue , yellow
+7444	blue , green , yellow
+7445	yellow
+7446	black , green
+7447	blue
+7448	black , red
+7449	red , yellow
+7450	blue , green
+7451	blue , yellow
+7452	green , red
+7453	blue , red
+7454	black , green , yellow
+7455	black , blue , yellow
+7456	green , red
+7457	black , green , yellow
+7458	black , blue
+7459	black , green , yellow
+7460	black , red , yellow
+7461	blue , green , red
+7462	yellow
+7463	black , blue , green
+7464	green , red , yellow
+7465	blue , yellow
+7466	black
+7467	black , red
+7468	green , yellow
+7469	blue , green , yellow
+7470	black , blue , yellow
+7471	black , yellow
+7472	black , red , yellow
+7473	green , red
+7474	blue , red
+7475	blue , green
+7476	green , red , yellow
+7477	green , red
+7478	green , red
+7479	blue , red
+7480	blue , red
+7481	black , green , red
+7482	black , yellow
+7483	green , red
+7484	blue , yellow
+7485	blue , green , yellow
+7486	blue , green
+7487	blue , red , yellow
+7488	red , yellow
+7489	blue , yellow
+7490	black , yellow
+7491	black , blue , red
+7492	black , green
+7493	blue
+7494	green , red , yellow
+7495	black , yellow
+7496	black , blue
+7497	blue , green , yellow
+7498	blue , green , yellow
+7499	black , blue
+7500	blue , red
+7501	yellow
+7502	blue
+7503	black , red
+7504	black , blue
+7505	black , green , red
+7506	black , green , red
+7507	black , green
+7508	black , red
+7509	red , yellow
+7510	green , red
+7511	black , blue
+7512	black
+7513	black , blue
+7514	black , blue , yellow
+7515	blue , green , yellow
+7516	black
+7517	black , blue , yellow
+7518	red
+7519	black , green
+7520	black , blue
+7521	blue , green , yellow
+7522	green , yellow
+7523	red
+7524	black , yellow
+7525	black , yellow
+7526	blue , yellow
+7527	blue , green
+7528	blue , yellow
+7529	black , green
+7530	black , red , yellow
+7531	black , red
+7532	black , blue
+7533	green , yellow
+7534	red , yellow
+7535	black , blue
+7536	black , green , yellow
+7537	black , red , yellow
+7538	green , red , yellow
+7539	blue , red
+7540	blue
+7541	blue , green , yellow
+7542	black , green
+7543	black , green
+7544	green , yellow
+7545	green , red
+7546	blue , green , yellow
+7547	blue , green , yellow
+7548	yellow
+7549	green , red , yellow
+7550	black , red
+7551	black , blue , red
+7552	black , red
+7553	green , red , yellow
+7554	green , yellow
+7555	black , green , yellow
+7556	black , blue , red
+7557	black , blue , yellow
+7558	black , yellow
+7559	black , blue
+7560	red , yellow
+7561	blue , red
+7562	black , blue , yellow
+7563	green , red
+7564	green , yellow
+7565	green , red , yellow
+7566	blue , red , yellow
+7567	blue , red
+7568	green , red
+7569	blue , green
+7570	green , yellow
+7571	blue , green
+7572	green , yellow
+7573	blue , green
+7574	blue , green , red
+7575	green
+7576	green , yellow
+7577	black , green
+7578	black , yellow
+7579	black , green , red
+7580	green , red
+7581	green , red
+7582	blue , green
+7583	black , red
+7584	green
+7585	green , yellow
+7586	red , yellow
+7587	green
+7588	blue , red , yellow
+7589	blue , red , yellow
+7590	green , yellow
+7591	black , blue , green
+7592	black , green
+7593	black , red , yellow
+7594	green , yellow
+7595	green
+7596	black , blue
+7597	blue
+7598	black , green , yellow
+7599	black , red
+7600	black , red , yellow
+7601	black , blue , yellow
+7602	black , green , yellow
+7603	black , green
+7604	black , blue
+7605	red
+7606	black , red
+7607	blue , green
+7608	red , yellow
+7609	black , yellow
+7610	black , yellow
+7611	blue , red
+7612	black , blue , yellow
+7613	green , yellow
+7614	blue , red
+7615	green , red
+7616	black , yellow
+7617	black , blue
+7618	blue , green
+7619	green , red
+7620	blue , green
+7621	blue , red , yellow
+7622	green , yellow
+7623	blue , red
+7624	black , green
+7625	blue
+7626	black , red
+7627	black , blue , yellow
+7628	blue , red
+7629	blue , green , yellow
+7630	black , green
+7631	black , green
+7632	black , blue , green
+7633	black , red
+7634	black , blue , green
+7635	green , yellow
+7636	black , green , red
+7637	black , green
+7638	blue , red
+7639	black , red
+7640	black , red
+7641	black , red , yellow
+7642	black , red , yellow
+7643	black , blue , red
+7644	blue , green , yellow
+7645	green , red
+7646	green , yellow
+7647	green , red
+7648	black , green
+7649	blue , red
+7650	red , yellow
+7651	black , green
+7652	black , red
+7653	blue , red , yellow
+7654	red , yellow
+7655	red , yellow
+7656	red , yellow
+7657	black , green
+7658	black , green
+7659	blue , red
+7660	green , red
+7661	blue , green
+7662	black , green
+7663	black , blue , green
+7664	black , green , red
+7665	blue , yellow
+7666	black , red
+7667	green , red
+7668	black , blue
+7669	blue
+7670	red , yellow
+7671	blue , red
+7672	black , red , yellow
+7673	green , red , yellow
+7674	blue , green , yellow
+7675	black , yellow
+7676	blue , red , yellow
+7677	blue , green , yellow
+7678	blue , red , yellow
+7679	blue , yellow
+7680	black , red
+7681	black , blue , red
+7682	blue , green , red
+7683	blue , green , red
+7684	yellow
+7685	black , red
+7686	red , yellow
+7687	black , green , red
+7688	green , red
+7689	blue , red
+7690	black , blue , yellow
+7691	blue , green , red
+7692	black , red
+7693	black , blue , green
+7694	black , blue
+7695	blue , green
+7696	red , yellow
+7697	black , green
+7698	blue , green , yellow
+7699	blue , red , yellow
+7700	black , red , yellow
+7701	blue , green , red
+7702	green , red
+7703	blue , green
+7704	blue , green , yellow
+7705	black , green
+7706	black , red , yellow
+7707	black , yellow
+7708	black , blue , red
+7709	black , blue
+7710	black , yellow
+7711	blue , yellow
+7712	green , yellow
+7713	green , yellow
+7714	red , yellow
+7715	blue , green , red
+7716	blue , red , yellow
+7717	black , red
+7718	black , green , yellow
+7719	yellow
+7720	red , yellow
+7721	black , blue , red
+7722	black
+7723	blue
+7724	black , red
+7725	blue , yellow
+7726	red , yellow
+7727	black , red , yellow
+7728	black , green
+7729	black , yellow
+7730	blue , green , red
+7731	blue , green , yellow
+7732	red , yellow
+7733	blue , red
+7734	black , green , red
+7735	black , red , yellow
+7736	blue , red
+7737	blue , red
+7738	black , green
+7739	black , blue
+7740	black , green , red
+7741	blue , red , yellow
+7742	black , red , yellow
+7743	blue , red , yellow
+7744	blue , green
+7745	green , red
+7746	black , blue
+7747	blue , red
+7748	black , blue , green
+7749	green , red
+7750	red , yellow
+7751	black
+7752	green , yellow
+7753	black , green , yellow
+7754	black , red
+7755	red , yellow
+7756	black , green
+7757	black , blue
+7758	blue , green , red
+7759	black , green
+7760	green , red
+7761	yellow
+7762	blue , green , yellow
+7763	green , red
+7764	green
+7765	black , blue , red
+7766	black , blue , yellow
+7767	black , blue , red
+7768	blue , yellow
+7769	black
+7770	black , green , red
+7771	blue , red
+7772	blue , yellow
+7773	black , red , yellow
+7774	blue , green , red
+7775	red , yellow
+7776	blue , green , red
+7777	black , blue
+7778	black , yellow
+7779	blue , green , yellow
+7780	green
+7781	blue , yellow
+7782	blue , red
+7783	blue , yellow
+7784	black , blue
+7785	green , yellow
+7786	red
+7787	blue , yellow
+7788	green , red
+7789	green , yellow
+7790	green , red , yellow
+7791	black , blue
+7792	blue , green , yellow
+7793	black , green , yellow
+7794	blue , red , yellow
+7795	black , yellow
+7796	blue , green
+7797	blue , green , red
+7798	blue
+7799	black , blue , green
+7800	black , blue
+7801	black , red , yellow
+7802	black , yellow
+7803	blue , green
+7804	black , blue , green
+7805	blue , yellow
+7806	yellow
+7807	blue , green
+7808	red , yellow
+7809	black , blue
+7810	blue , green , yellow
+7811	red , yellow
+7812	blue
+7813	green
+7814	red , yellow
+7815	blue , yellow
+7816	black , red
+7817	black , green
+7818	red , yellow
+7819	black , green
+7820	black , blue , red
+7821	green , red , yellow
+7822	black , green
+7823	black , blue , green
+7824	green
+7825	blue , green
+7826	green
+7827	blue , green
+7828	blue , green
+7829	black , green , red
+7830	yellow
+7831	green
+7832	black , blue , yellow
+7833	blue , yellow
+7834	blue , yellow
+7835	blue , green , red
+7836	green , red , yellow
+7837	black , blue
+7838	black , blue
+7839	blue , red , yellow
+7840	red , yellow
+7841	black , blue
+7842	black , red
+7843	black , yellow
+7844	black , yellow
+7845	black , blue , red
+7846	blue , red , yellow
+7847	green
+7848	green , yellow
+7849	blue , yellow
+7850	black , blue , green
+7851	blue
+7852	blue , green
+7853	green , red , yellow
+7854	red
+7855	black , green
+7856	red , yellow
+7857	black , green
+7858	blue , yellow
+7859	blue
+7860	green , yellow
+7861	black , red , yellow
+7862	blue , green , yellow
+7863	black , green
+7864	black , blue , yellow
+7865	yellow
+7866	red , yellow
+7867	black , yellow
+7868	black , green
+7869	blue , red , yellow
+7870	black , blue , yellow
+7871	blue , red
+7872	green
+7873	black , blue
+7874	black , red
+7875	black , blue , green
+7876	blue , green , red
+7877	black , yellow
+7878	blue
+7879	blue , red
+7880	black , red , yellow
+7881	blue , yellow
+7882	blue , green
+7883	green , yellow
+7884	black , blue
+7885	black , blue
+7886	blue , yellow
+7887	black , red
+7888	green
+7889	blue , green
+7890	blue , yellow
+7891	blue , red
+7892	blue , red , yellow
+7893	black , yellow
+7894	black , blue , yellow
+7895	blue , red
+7896	red , yellow
+7897	black
+7898	black , blue
+7899	black , blue
+7900	green , yellow
+7901	black , yellow
+7902	blue , yellow
+7903	green , yellow
+7904	red , yellow
+7905	green , red
+7906	black , yellow
+7907	red , yellow
+7908	green , yellow
+7909	blue , green
+7910	black , blue , red
+7911	black , red
+7912	black , red
+7913	red , yellow
+7914	blue , green
+7915	blue , red , yellow
+7916	black , blue
+7917	black , blue
+7918	blue , green , yellow
+7919	green , yellow
+7920	black , red , yellow
+7921	black , red
+7922	black , blue
+7923	black , yellow
+7924	red , yellow
+7925	black , blue
+7926	blue , red
+7927	blue , yellow
+7928	green , red
+7929	blue , green , red
+7930	yellow
+7931	green , red
+7932	black , blue , yellow
+7933	black , blue , green
+7934	black , yellow
+7935	black , red
+7936	black , red
+7937	red , yellow
+7938	blue , green , yellow
+7939	blue , red
+7940	black , red
+7941	black , blue , red
+7942	blue , green , yellow
+7943	blue , red
+7944	blue
+7945	black , blue
+7946	black , green
+7947	green , yellow
+7948	red , yellow
+7949	green , red
+7950	black , blue , green
+7951	blue , yellow
+7952	red , yellow
+7953	blue , green
+7954	black , red
+7955	blue , green , yellow
+7956	blue , red , yellow
+7957	blue , yellow
+7958	blue , red
+7959	blue , red , yellow
+7960	blue , green
+7961	green , red
+7962	blue , yellow
+7963	black , red
+7964	blue , yellow
+7965	black , red
+7966	blue , green
+7967	black , green , red
+7968	black , yellow
+7969	black , yellow
+7970	black , blue
+7971	black , green , yellow
+7972	black
+7973	black , red
+7974	green , red
+7975	green , yellow
+7976	black , yellow
+7977	red , yellow
+7978	black , blue
+7979	green , red , yellow
+7980	black , blue
+7981	blue
+7982	yellow
+7983	black , yellow
+7984	black , red
+7985	black , green
+7986	red , yellow
+7987	black , yellow
+7988	green , yellow
+7989	black , red
+7990	blue , red
+7991	black
+7992	blue , red
+7993	blue , green
+7994	blue , red , yellow
+7995	green , yellow
+7996	black , yellow
+7997	black , blue , green
+7998	blue , green
+7999	black , green , yellow
+8000	black , blue
+8001	red , yellow
+8002	blue , red
+8003	black , blue
+8004	black , blue , red
+8005	black , blue
+8006	green , red
+8007	green , red
+8008	black , green , yellow
+8009	red , yellow
+8010	blue , yellow
+8011	black , red
+8012	black , blue
+8013	blue , red , yellow
+8014	black , blue
+8015	blue , green , red
+8016	blue , yellow
+8017	red , yellow
+8018	green , red
+8019	blue , red , yellow
+8020	green , yellow
+8021	black , blue
+8022	blue , green , red
+8023	black , blue
+8024	green , red
+8025	black , green
+8026	blue , yellow
+8027	green , red , yellow
+8028	black , blue , yellow
+8029	green , red
+8030	black , blue , red
+8031	black , green
+8032	black , green
+8033	green , red , yellow
+8034	green , red
+8035	blue , red
+8036	blue , red , yellow
+8037	black , red
+8038	black , green
+8039	black , blue
+8040	black , blue
+8041	blue , yellow
+8042	black , blue , red
+8043	blue , yellow
+8044	black , red , yellow
+8045	red , yellow
+8046	green , red , yellow
+8047	black , green
+8048	red , yellow
+8049	green , red
+8050	red
+8051	green , red
+8052	black , blue
+8053	blue , green
+8054	green , red
+8055	black , blue , green
+8056	blue , green
+8057	black , yellow
+8058	red , yellow
+8059	green , red , yellow
+8060	black , blue , yellow
+8061	red
+8062	blue , green , red
+8063	blue , green
+8064	green , yellow
+8065	black , blue , green
+8066	black , red , yellow
+8067	red , yellow
+8068	blue , green , red
+8069	black , green , red
+8070	black , blue
+8071	black , red
+8072	black , red
+8073	black , blue
+8074	black , blue
+8075	yellow
+8076	blue , red , yellow
+8077	blue , yellow
+8078	green , yellow
+8079	blue , yellow
+8080	green , red
+8081	blue
+8082	green , red , yellow
+8083	blue , yellow
+8084	green , red
+8085	black , red , yellow
+8086	black , red , yellow
+8087	blue , green
+8088	red
+8089	black , blue
+8090	blue , yellow
+8091	blue , green , red
+8092	black , blue
+8093	black , green
+8094	blue , red
+8095	green
+8096	black , green , yellow
+8097	black , blue , green
+8098	blue , red
+8099	blue , green , red
+8100	red , yellow
+8101	black , blue , red
+8102	blue , green , yellow
+8103	blue , red
+8104	black , green
+8105	black , blue , yellow
+8106	blue , green , yellow
+8107	blue , green , yellow
+8108	black , yellow
+8109	black , red
+8110	black , red
+8111	black , red
+8112	black , green , red
+8113	blue , yellow
+8114	red , yellow
+8115	blue , red
+8116	red , yellow
+8117	black , red , yellow
+8118	blue , red , yellow
+8119	green , yellow
+8120	blue , yellow
+8121	blue , green
+8122	black
+8123	black , yellow
+8124	blue , green
+8125	blue , red
+8126	black , red , yellow
+8127	black , yellow
+8128	blue , red
+8129	black , red
+8130	black , blue
+8131	black , blue
+8132	black , blue
+8133	black , blue
+8134	green , red
+8135	black
+8136	green , yellow
+8137	blue
+8138	blue , green , red
+8139	blue , green
+8140	blue , red
+8141	green
+8142	blue , green , yellow
+8143	black , yellow
+8144	black , green
+8145	black , blue , green
+8146	blue , yellow
+8147	red , yellow
+8148	black , yellow
+8149	green , yellow
+8150	green , yellow
+8151	black , green , red
+8152	red , yellow
+8153	black , green , red
+8154	black , blue , yellow
+8155	blue , green
+8156	green , yellow
+8157	blue , red
+8158	blue , green , red
+8159	blue , green , yellow
+8160	black , red
+8161	black , green
+8162	blue
+8163	black , green , yellow
+8164	black , green , red
+8165	black , green , yellow
+8166	black , blue
+8167	black , blue
+8168	black , yellow
+8169	black , red , yellow
+8170	blue , green
+8171	blue , green , yellow
+8172	blue , red
+8173	green , yellow
+8174	blue , yellow
+8175	red , yellow
+8176	yellow
+8177	black , yellow
+8178	blue , green
+8179	blue , green , red
+8180	green
+8181	black , yellow
+8182	black , red
+8183	black , green , red
+8184	black , blue , green
+8185	red , yellow
+8186	black , blue , green
+8187	red , yellow
+8188	red
+8189	black
+8190	red , yellow
+8191	black , blue , red
+8192	black , green
+8193	black , blue
+8194	blue , yellow
+8195	black , green
+8196	green , red
+8197	red , yellow
+8198	red , yellow
+8199	black
+8200	black , green , yellow
+8201	black
+8202	blue , yellow
+8203	black , green
+8204	blue , yellow
+8205	green , red
+8206	green , red
+8207	blue
+8208	blue , yellow
+8209	green
+8210	green , yellow
+8211	red , yellow
+8212	black , red
+8213	yellow
+8214	blue , yellow
+8215	black , blue
+8216	black , red , yellow
+8217	green , red
+8218	blue , red , yellow
+8219	black , green
+8220	black , green
+8221	black , blue
+8222	black , green
+8223	black , green , red
+8224	black , green
+8225	blue , yellow
+8226	black , red , yellow
+8227	blue , green
+8228	blue , red
+8229	green , red
+8230	black , blue , green
+8231	blue , green
+8232	blue , green , red
+8233	green , red , yellow
+8234	green , yellow
+8235	black , green
+8236	blue , green
+8237	red , yellow
+8238	green , yellow
+8239	black , red
+8240	black , red
+8241	black , red
+8242	blue , green , yellow
+8243	black , blue
+8244	red , yellow
+8245	black , blue , yellow
+8246	black , red , yellow
+8247	blue
+8248	green , yellow
+8249	green , yellow
+8250	green , red , yellow
+8251	blue , green , yellow
+8252	black , red
+8253	green , red , yellow
+8254	black , red
+8255	black , green
+8256	green , yellow
+8257	black , red
+8258	black , green , yellow
+8259	yellow
+8260	blue
+8261	blue , green
+8262	blue , green
+8263	black , green
+8264	blue , yellow
+8265	black , red
+8266	black , green
+8267	black , blue
+8268	green , red , yellow
+8269	blue , yellow
+8270	green , red
+8271	black , red
+8272	green , red
+8273	black , red , yellow
+8274	black , blue , red
+8275	black , blue , green
+8276	black
+8277	black , blue
+8278	black , yellow
+8279	black , blue , red
+8280	black , yellow
+8281	black , green , yellow
+8282	black , blue
+8283	black , green
+8284	green , yellow
+8285	green
+8286	blue , red
+8287	green , yellow
+8288	green , red
+8289	black , blue
+8290	blue , green
+8291	black , red
+8292	yellow
+8293	black , blue , green
+8294	blue , green
+8295	blue , green
+8296	green , red , yellow
+8297	black , green , yellow
+8298	black , green
+8299	blue , red
+8300	black , blue
+8301	black , blue , yellow
+8302	green , yellow
+8303	black , yellow
+8304	green , yellow
+8305	black
+8306	red , yellow
+8307	blue , yellow
+8308	green , red
+8309	blue , green
+8310	blue , green , yellow
+8311	red , yellow
+8312	blue , green
+8313	black , blue , red
+8314	blue , green
+8315	black , green , red
+8316	black , green
+8317	blue , green
+8318	green , red , yellow
+8319	black , blue , green
+8320	black , green
+8321	blue , green
+8322	blue , yellow
+8323	blue , green , yellow
+8324	green , red
+8325	black , green , red
+8326	black , green , yellow
+8327	black , red
+8328	black , red , yellow
+8329	blue , green
+8330	black , green
+8331	blue , red
+8332	black , red , yellow
+8333	blue , green , red
+8334	blue , green
+8335	black , green , red
+8336	black , green
+8337	black , red
+8338	green , red
+8339	blue , green , red
+8340	black , red
+8341	black , red
+8342	red , yellow
+8343	green , red
+8344	green
+8345	black , green
+8346	black , green , red
+8347	black , yellow
+8348	green , yellow
+8349	blue , red
+8350	black , red , yellow
+8351	black , yellow
+8352	blue , green
+8353	black , red
+8354	black , blue , yellow
+8355	black , green , red
+8356	blue , green
+8357	black , green , red
+8358	green , red
+8359	black , blue , yellow
+8360	red , yellow
+8361	green , yellow
+8362	blue , red
+8363	black , blue , yellow
+8364	green
+8365	yellow
+8366	blue , yellow
+8367	black , red
+8368	green , red , yellow
+8369	blue , red , yellow
+8370	black , green , yellow
+8371	green , yellow
+8372	green , red , yellow
+8373	blue , green
+8374	black , red
+8375	black , green , yellow
+8376	green , red
+8377	red , yellow
+8378	black , red , yellow
+8379	green , red
+8380	blue , red
+8381	green , red
+8382	blue , red
+8383	black , blue
+8384	black , green
+8385	black , red , yellow
+8386	green , yellow
+8387	blue , red , yellow
+8388	yellow
+8389	black , blue
+8390	green , red
+8391	blue , yellow
+8392	red , yellow
+8393	black , green
+8394	black , red , yellow
+8395	blue , red
+8396	black , green , red
+8397	green , red
+8398	blue , green , red
+8399	green , red
+8400	black , red , yellow
+8401	red , yellow
+8402	blue , green , red
+8403	black , yellow
+8404	black , red
+8405	black , green
+8406	black , blue
+8407	red , yellow
+8408	black , yellow
+8409	black , blue , green
+8410	blue , green
+8411	black , red , yellow
+8412	black , green
+8413	black , blue , yellow
+8414	black , red
+8415	red , yellow
+8416	blue , red
+8417	black , blue
+8418	blue , green , yellow
+8419	green , red
+8420	black , yellow
+8421	blue , yellow
+8422	blue , red
+8423	black , green
+8424	black , red
+8425	black , blue
+8426	blue , red
+8427	blue , green , red
+8428	blue , green
+8429	green , yellow
+8430	red , yellow
+8431	blue , green , yellow
+8432	green , yellow
+8433	green , yellow
+8434	blue , green , red
+8435	black , blue
+8436	red , yellow
+8437	black
+8438	black , blue , green
+8439	green , red , yellow
+8440	blue , yellow
+8441	blue , red
+8442	green , yellow
+8443	black , blue , red
+8444	blue , red
+8445	green , red
+8446	black
+8447	blue , green
+8448	red , yellow
+8449	black , green
+8450	black , green
+8451	black , yellow
+8452	blue , green
+8453	green , yellow
+8454	green , red
+8455	blue , green
+8456	green , yellow
+8457	green
+8458	green , yellow
+8459	blue , green
+8460	red
+8461	black , red
+8462	blue , yellow
+8463	green , red
+8464	blue , yellow
+8465	black , green
+8466	green , red , yellow
+8467	black , yellow
+8468	yellow
+8469	blue , red , yellow
+8470	red , yellow
+8471	black , blue , red
+8472	black , blue , green
+8473	green , red
+8474	black
+8475	black , blue , green
+8476	black , red , yellow
+8477	black , green
+8478	black , green , yellow
+8479	blue , green
+8480	blue , green
+8481	green , red , yellow
+8482	green , yellow
+8483	black , yellow
+8484	blue , red
+8485	blue , yellow
+8486	red , yellow
+8487	black , yellow
+8488	blue , red
+8489	black , yellow
+8490	blue , green
+8491	black
+8492	black , green , red
+8493	black , blue , green
+8494	blue , green
+8495	black , blue
+8496	blue , green , red
+8497	black , blue
+8498	blue , green
+8499	green , red
